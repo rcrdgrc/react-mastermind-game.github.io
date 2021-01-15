@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-mastermind-game.github.io/static/css/main.7425a5c3.chunk.css",
-    "main.js": "/react-mastermind-game.github.io/static/js/main.02bdc1d1.chunk.js",
-    "main.js.map": "/react-mastermind-game.github.io/static/js/main.02bdc1d1.chunk.js.map",
+    "main.js": "/react-mastermind-game.github.io/static/js/main.11d2f8f7.chunk.js",
+    "main.js.map": "/react-mastermind-game.github.io/static/js/main.11d2f8f7.chunk.js.map",
     "runtime-main.js": "/react-mastermind-game.github.io/static/js/runtime-main.1c23886f.js",
     "runtime-main.js.map": "/react-mastermind-game.github.io/static/js/runtime-main.1c23886f.js.map",
     "static/js/2.182b2cc1.chunk.js": "/react-mastermind-game.github.io/static/js/2.182b2cc1.chunk.js",
     "static/js/2.182b2cc1.chunk.js.map": "/react-mastermind-game.github.io/static/js/2.182b2cc1.chunk.js.map",
     "index.html": "/react-mastermind-game.github.io/index.html",
-    "precache-manifest.e01585eebe95cbf8d35cc41b345ff522.js": "/react-mastermind-game.github.io/precache-manifest.e01585eebe95cbf8d35cc41b345ff522.js",
+    "precache-manifest.4208038c87ddf2bdc157e0f69947706a.js": "/react-mastermind-game.github.io/precache-manifest.4208038c87ddf2bdc157e0f69947706a.js",
     "service-worker.js": "/react-mastermind-game.github.io/service-worker.js",
     "static/css/main.7425a5c3.chunk.css.map": "/react-mastermind-game.github.io/static/css/main.7425a5c3.chunk.css.map",
     "static/js/2.182b2cc1.chunk.js.LICENSE.txt": "/react-mastermind-game.github.io/static/js/2.182b2cc1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1c23886f.js",
     "static/js/2.182b2cc1.chunk.js",
     "static/css/main.7425a5c3.chunk.css",
-    "static/js/main.02bdc1d1.chunk.js"
+    "static/js/main.11d2f8f7.chunk.js"
   ]
 }

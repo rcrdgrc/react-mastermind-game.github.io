@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e82b9e1e527caea4f90742a445c293e",
+    "revision": "6ebe8c45d093f8b2238719da79c7315e",
     "url": "/react-mastermind-game.github.io/index.html"
   },
   {
-    "revision": "b015619d11edc065c48a",
+    "revision": "d1ff7f179dd80773e5ec",
     "url": "/react-mastermind-game.github.io/static/css/main.7425a5c3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-mastermind-game.github.io/static/js/2.182b2cc1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b015619d11edc065c48a",
-    "url": "/react-mastermind-game.github.io/static/js/main.02bdc1d1.chunk.js"
+    "revision": "d1ff7f179dd80773e5ec",
+    "url": "/react-mastermind-game.github.io/static/js/main.11d2f8f7.chunk.js"
   },
   {
     "revision": "8ecec3dc09e5592f9411",
